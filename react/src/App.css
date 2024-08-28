@@ -1,0 +1,27 @@
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+
+}
+
+.card{
+  background-color: cadetblue;
+  border-radius:15px ;
+  padding: 10px;
+  margin: 20px;
+}
+
+button{
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #fff;
+  cursor: pointer;
+  margin-left: 35px;
+ 
+}
